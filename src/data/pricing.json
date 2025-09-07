@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Starter",
+    "price": 29,
+    "period": "month",
+    "features": [
+      "10 documents per month",
+      "Basic risk analysis",
+      "Email support"
+    ],
+    "isPopular": false,
+    "ctaText": "Start Free Trial"
+  },
+  {
+    "id": 2,
+    "name": "Professional",
+    "price": 99,
+    "period": "month",
+    "features": [
+      "Unlimited documents",
+      "Advanced AI analysis",
+      "Priority support",
+      "Custom templates"
+    ],
+    "isPopular": true,
+    "ctaText": "Start Free Trial"
+  },
+  {
+    "id": 3,
+    "name": "Enterprise",
+    "price": 299,
+    "period": "month",
+    "features": [
+      "Everything in Professional",
+      "White-label solution",
+      "API access",
+      "Dedicated support"
+    ],
+    "isPopular": false,
+    "ctaText": "Contact Sales"
+  }
+]

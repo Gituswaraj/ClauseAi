@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "title": "Corporate Lawyer",
+    "company": "Goldman Sachs",
+    "companyLogo": "/logos/goldman-sachs.svg",
+    "avatar": "/avatars/sarah-johnson.jpg",
+    "quote": "ClauseAI reduced our contract review time by 80%. Game-changing technology!",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "title": "Legal Director",
+    "company": "Microsoft",
+    "companyLogo": "/logos/microsoft.svg",
+    "avatar": "/avatars/michael-chen.jpg",
+    "quote": "The AI insights helped us identify critical risks we would have missed manually.",
+    "rating": 5
+  }
+]

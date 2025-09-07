@@ -1,0 +1,22 @@
+@import './tailwind.css';
+@import './variables.css';
+@import './typography.css';
+@import './animations.css';
+@import './tailwind.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--gradient-main);
+  color: white;
+  min-height: 100vh;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "icon": "DocumentTextIcon",
+    "title": "Smart Document Analysis",
+    "description": "Our AI scans contracts in seconds, identifying key clauses, risks, and opportunities automatically.",
+    "category": "analysis"
+  },
+  {
+    "id": 2,
+    "icon": "ShieldCheckIcon",
+    "title": "Risk Assessment",
+    "description": "Get instant risk scores and recommendations for every clause in your contracts.",
+    "category": "security"
+  },
+  {
+    "id": 3,
+    "icon": "ChartBarIcon",
+    "title": "Compliance Monitoring",
+    "description": "Ensure all contracts meet regulatory requirements with automated compliance checks.",
+    "category": "compliance"
+  }
+]
