@@ -146,9 +146,9 @@ export default function Navbar({ isScrolled = false }) {
           >
             {/* Placeholder logo mark */}
             <span className="inline-flex h-6 w-6 items-center justify-center rounded bg-gradient-to-br from-purple-500 to-fuchsia-600">
-              <span className="sr-only">InterviewCoder</span>
+              <span className="sr-only">Clause Ai</span>
             </span>
-            <span className="hidden sm:inline-block tracking-tight">InterviewCoder</span>
+            <span className="hidden sm:inline-block tracking-tight">Clause Ai</span>
           </Link>
         </div>
 
